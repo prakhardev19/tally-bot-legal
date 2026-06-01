@@ -2,7 +2,7 @@
 
 **Last updated:** 1 June 2026
 
-This page explains how to request deletion of your personal data from **[YOUR BUSINESS NAME]**'s WhatsApp-based invoice processing service ("the Service").
+This page explains how to request deletion of your personal data from **Point1EM Ventures**'s WhatsApp-based invoice processing service ("the Service").
 
 You have the right to request deletion of your data under the Digital Personal Data Protection Act, 2023.
 
@@ -109,4 +109,4 @@ If you are not satisfied with our response, you have the right to lodge a compla
 **Address:** Flat 303, Block 5A, Skyline City Apartment, Bengaluru, Karnataka, India
 
 
-[def]: ./PRIVACY.md
+[def]: ./privacy
